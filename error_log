@@ -1,0 +1,1 @@
+[10-Jun-2021 12:21:44 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/develop2/dfw.selworthydev4.com/app/Http/Controllers/Auth/RegisterController.php on line 34

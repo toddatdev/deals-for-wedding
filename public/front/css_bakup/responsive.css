@@ -1,0 +1,108 @@
+@media (max-width: 767px) {
+	#sidebar {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;padding:15px 15px 0 !important;}
+	#middle-section {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;}
+	.side-footer-section ul {margin: 0;padding: 0;}
+	.side-footer-section{display: none;}
+	.side-footer-section ul li img {margin: 0 10px;}
+	.side-footer-section p {margin: 8px 0px 0;padding-left: 0;}
+	.middle-content-area h1{font-size: 30px;}
+	.btn-primary{width: 65%;}
+	.btn-info{width: 65%;}
+	.middle-content-area { padding-left: 0;}
+	#oh-hey-there .btn-primary {width: 55%;}
+	#dream-team .btn-primary{width: 60%;}
+	.logo-area img{width: 228px;margin: 0 auto;position: relative;left: 28px;top: -8px;}
+	.account-img {display: block;width: 30px !important;position: absolute !important;right: -40px !important;top: -12px !important;}
+	.accountBox {display: none;}
+	.side-body-section .sidebarBox img.save-img {width: 20px;}
+	.sideBox-content {position: relative;left:15px;text-align: left;}
+	.side-body-section .sidebarBox img {width: 30px;position: relative;left: 19px;top: 20px;}
+	.side-body-section .sidebarBox img.save-img {width: 18px;}
+	footer{display:block;}
+	.inner-page #middle-section {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;}
+	.inner-page #sidebar {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;display:none;}
+	.inner-page .account-img {display: block;width: 30px !important;position: absolute !important;right: 15px !important;top: 8px !important;}
+	.photographyBox .btn-primary {
+		margin: 15px 0 0;
+		font-size: 15px;
+		font-weight: 300;
+		width: 100%;
+		padding: 12px;
+	}
+	.photographyBox .btn-info {
+		margin: 15px 0 0;
+		font-size: 15px;
+		font-weight: 300;
+		width: 100%;
+		padding: 12px;
+		position: relative;
+		left: 0;
+	}
+	.photography-content.mt-5{margin-top: 1rem !important;}
+	.category-form .btn-primary{width: 55%;}
+	.infoBox .heart-icon img {
+    bottom: 30%;
+
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#sidebar {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;padding: 6px 15px !important;}
+	#middle-section {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;}
+	.middle-content-area { padding-left: 0;}
+	.middle-content-area h1{font-size: 24px;}
+	.btn-primary{width: 30%;}
+	.btn-info{width: 30%;}
+	.accountBox h6 {font-size: 9px;}
+	.accountBox img {width: 20px;position: absolute;right: -18px;top: 0px;}
+	#oh-hey-there .btn-primary {width: 40%;}
+	#dream-team .btn-primary {width: 62%;}
+	.side-footer-section{display: none;}
+	.logo-area img{width: 300px;margin: 0 auto;position: relative;left: 65%;}
+	.account-img {display: block;width: 30px !important;position: absolute !important;right: -385px !important;top: -12px !important;}
+	.accountBox {display: none;}
+	.sidebarBox{margin: 20px 0;}
+	footer{display:block;}
+	.inner-page .account-img {display: block;width: 30px !important;position: absolute !important;right: 15px !important;top: 8px !important;}
+	.inner-page #middle-section {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;}
+	.inner-page #sidebar {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;min-height:auto;display:none;}
+	.inner-page .account-img {display: block;width: 30px !important;position: absolute !important;right: 15px !important;top: 8px !important;}
+	.inner-page .navbar-dark .btn-primary {width: 100%;padding: 13px;margin: 0;}
+	.photographyBox .btn-primary {
+		margin: 15px 0 0;
+		font-size: 15px;
+		font-weight: 300;
+		width: 100%;
+		padding: 12px;
+	}
+	.photographyBox .btn-info {
+		margin: 15px 0 0;
+		font-size: 15px;
+		font-weight: 300;
+		width: 100%;
+		padding: 12px;
+		position: relative;
+		left: 0;
+	}
+	.category-form .btn-primary{width: 55%;}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#sidebar {-ms-flex: 0 0 28%;flex: 0 0 28%;max-width: 28%;}
+	#middle-section {-ms-flex: 0 0 72%;flex: 0 0 72%;max-width: 72%;}	
+	.middle-content-area { padding-left: 0;}
+	.btn-primary{width:38%;}
+	.btn-info{width: 38%;}
+	#oh-hey-there .btn-primary {width: 40%;}
+	.middle-content-area h1{font-size: 30px;}
+	#dream-team .btn-primary {width: 50%;}
+	.inner-page #middle-section {-ms-flex: 0 0 80%;flex: 0 0 80%;max-width: 80%;}
+	.inner-page #sidebar {-ms-flex: 0 0 20%;flex: 0 0 20%;max-width: 20%;}
+	.photography-content.mt-5{margin-top: 2rem !important;}
+	.photographyBox .btn-primary {
+		width: 38%;
+	}
+	.photographyBox .btn-info {
+		width: 38%;
+	}
+	.category-form .btn-primary{width: 55%;}
+}
